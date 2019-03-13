@@ -1,0 +1,5 @@
+classes= 2
+train  = kertas-tisu-train.txt  
+valid  = kertas-tisu-test.txt  
+names  = cfg/kertas-tisu-obj.names  
+backup = backup/
